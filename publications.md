@@ -8,15 +8,15 @@ permalink: /publications/
 
 ## Books and monographs
 
-- *(Earlier books here.)*
+- *(TBA)*
 
 ## Recent papers
 
 - "Translation Analytics for Freelancers II" (2026). [arXiv:2605.31452](https://arxiv.org/abs/2605.31452).
-- *(Add TA-I, TA-III, and other recent papers, with links to arXiv / journal pages.)*
+- *(TBA)*
 
 ## Selected earlier work
 
-- *(Philosophy of language, philosophy of science, and history of astronomy papers here.)*
+- *(philosophy and history of science, analytic ontology)*
 
 A complete list is available in my [CV](/cv/).
