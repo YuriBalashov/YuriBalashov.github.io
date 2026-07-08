@@ -9,9 +9,9 @@ baseurl: ""
 # Author
 author:
   name: Yuri Balashov
-  email: ""            # add your email here if you want it displayed
-
-# Theme (natively supported by GitHub Pages — no build setup needed)
+  email: "balashov.yuri@gmail.com"
+  
+  # Theme (natively supported by GitHub Pages — no build setup needed)
 theme: minima
 
 # Navigation: which pages appear in the header menu, in this order
