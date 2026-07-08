@@ -13,7 +13,7 @@ I am also an [ATA-certified](https://www.atanet.org/) English-to-Russian transla
 
 ## News
 
-- **June 2026** — Presented "Translation Analytics for Freelancers II" (poster) and delivered a hands-on tutorial on translation evaluation tools at [EAMT 2026](https://eamt2026.org/) in Tilburg, Netherlands.
+- **June 2026**: Presented "Translation Analytics for Freelancers II" (poster) and delivered a hands-on tutorial on translation evaluation tools at [EAMT 2026](https://eamt2026.org/) in Tilburg, Netherlands.
 
 
 ## Contact
