@@ -8,7 +8,7 @@ My full curriculum vitae is available as a PDF:
 
 **[Download CV (PDF)](/assets/pdf/balashov-cv.pdf)**
 
-*(To make this link work: upload your CV as `balashov-cv.pdf` into the `assets/pdf/` folder of the repository. Instructions below in the README.)*
+*(TBA)*
 
 ## At a glance
 
