@@ -1,5 +1,10 @@
 # Site settings
-
+title: Yuri Balashov
+description: >-
+  Professor of Philosophy, University of Georgia.
+  Philosophy of language, cognitive science, AI, and machine translation.
+url: "https://yuribalashov.github.io"
+baseurl: ""
 
 # Theme (natively supported by GitHub Pages — no build setup needed)
 theme: minima
@@ -10,10 +15,6 @@ header_pages:
   - publications.md
   - teaching.md
   - cv.md
-
-# Minima theme settings
-minima:
- 
 
 # Build settings
 markdown: kramdown
