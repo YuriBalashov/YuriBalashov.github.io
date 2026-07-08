@@ -1,11 +1,5 @@
 # Site settings
-title: Yuri Balashov
-description: >-
-  Professor of Philosophy
-  Faculty Fellow in Artificial Intelligence
-  University of Georgia
-url: https://yuribalashov.github.io
-baseurl: ""
+
 
 # Theme (natively supported by GitHub Pages — no build setup needed)
 theme: minima
