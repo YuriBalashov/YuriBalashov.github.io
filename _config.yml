@@ -4,13 +4,13 @@ description: >-
   Professor of Philosophy
   Faculty Fellow in Artificial Intelligence
   University of Georgia
-https://yuribalashov.github.io
+url: https://yuribalashov.github.io
 baseurl: ""
 
 # Author
 author:
-  Yuri Balashov
-  balashov.yuri@gmail.com
+  name: Yuri Balashov
+  email: "balashov.yuri@gmail.com"
   
   # Theme (natively supported by GitHub Pages — no build setup needed)
 theme: minima
