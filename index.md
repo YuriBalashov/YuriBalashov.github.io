@@ -13,13 +13,11 @@ I am also an [ATA-certified](https://www.atanet.org/) English-to-Russian transla
 
 ## News
 
-- **June 2026** — Presented "Translation Analytics for Freelancers II" (poster) and delivered a hands-on tutorial on translation evaluation tools at [EAMT 2026](https://eamt2026.org/) in Tilburg.
-- **2026** — Completing a Cambridge Element, *Cognitive, Linguistic and Philosophical Perspectives on Translation Technologies*, for Cambridge University Press.
+- **June 2026** — Presented "Translation Analytics for Freelancers II" (poster) and delivered a hands-on tutorial on translation evaluation tools at [EAMT 2026](https://eamt2026.org/) in Tilburg, Netherlands.
 
-*(Edit or add items above as things happen — this section is just a Markdown list.)*
 
 ## Contact
 
 - Department of Philosophy, University of Georgia, Athens, GA
-- Email: *your email here*
+- Email: *balashov.yuri@gmail.com*
 - [GitHub](https://github.com/YuriBalashov)
