@@ -1,0 +1,20 @@
+---
+---
+
+@import "minima";
+
+/* Light customizations on top of the minima theme */
+
+.site-title, .site-title:visited {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+.post-content h2 {
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 0.25em;
+}
