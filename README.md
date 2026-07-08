@@ -1,12 +1,11 @@
 # yuribalashov.github.io
 
-Personal academic website of Yuri Balashov, built with [Jekyll](https://jekyllrb.com/) and the built-in `minima` theme, hosted on GitHub Pages.
+Personal website of Yuri Balashov, built with [Jekyll](https://jekyllrb.com/) and the built-in `minima` theme, hosted on GitHub Pages.
 
 ## How this site works
 
 - Every `.md` file in the root is a page. The menu is defined by `header_pages` in `_config.yml`.
-- Pages are plain Markdown with a small "front matter" block (the part between `---` lines) at the top.
-- Editing any file through the GitHub web interface and committing the change automatically rebuilds and republishes the site within a minute or two.
+- Pages are plain Markdown with a small "front matter" block (the part between `---` lines) at the top
 
 ## Common tasks (all via the GitHub web interface)
 
