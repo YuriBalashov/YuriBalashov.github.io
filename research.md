@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Translation Technologies (NSF SES-2336713)
+## Translation Technologies
 
 My NSF-supported project investigates the cognitive, linguistic, and philosophical dimensions of modern translation technologies. Key themes include:
 
