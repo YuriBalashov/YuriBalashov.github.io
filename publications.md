@@ -8,7 +8,6 @@ permalink: /publications/
 
 ## Books and monographs
 
-- *Cognitive, Linguistic and Philosophical Perspectives on Translation Technologies*. Cambridge Elements, Cambridge University Press, forthcoming.
 - *(Earlier books here.)*
 
 ## Recent papers
