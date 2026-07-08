@@ -13,10 +13,7 @@ header_pages:
 
 # Minima theme settings
 minima:
-  # Social links shown in the footer (uncomment / edit as needed)
-  social_links:
-    github: YuriBalashov
-    # linkedin: your-linkedin-id
+ 
 
 # Build settings
 markdown: kramdown
