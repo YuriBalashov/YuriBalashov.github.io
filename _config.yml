@@ -8,8 +8,8 @@ baseurl: ""
 
 # Author
 author:
-  name: Yuri Balashov
-  email: "balashov.yuri@gmail.com"
+  Yuri Balashov
+  balashov.yuri@gmail.com
   
   # Theme (natively supported by GitHub Pages — no build setup needed)
 theme: minima
