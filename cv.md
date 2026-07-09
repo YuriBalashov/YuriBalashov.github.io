@@ -8,8 +8,6 @@ My full curriculum vitae is available as a PDF:
 
 **[Download CV (PDF)](/assets/pdf/balashov_cv.pdf)**
 
-*(TBA)*
-
 ## At a glance
 
 - Professor of Philosophy, University of Georgia
