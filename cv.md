@@ -6,7 +6,7 @@ permalink: /cv/
 
 My full curriculum vitae is available as a PDF:
 
-**[Download CV (PDF)](/assets/pdf/balashov_cv.pdf)**
+**[Download CV (PDF)](/assets/pdf/balashov-cv.pdf)**
 
 ## At a glance
 
