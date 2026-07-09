@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professional resume
-permalink: /cv/
+permalink: /resume/
 ---
 
 My professional resume, with some overlap with academic CV, is available as a PDF:
