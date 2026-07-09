@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-#  *Each entry is just a Markdown bullet, easy to maintain.*
-
 ## Books and monographs
 
 - *(TBA)*
