@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Academic CV
 permalink: /cv/
 ---
 
