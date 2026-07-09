@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-*A selected list. Replace the placeholders below with your actual publications — each entry is just a Markdown bullet, so it's easy to maintain.*
+#  *Each entry is just a Markdown bullet, easy to maintain.*
 
 ## Books and monographs
 
