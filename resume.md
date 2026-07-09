@@ -4,11 +4,9 @@ title: Professional resume
 permalink: /cv/
 ---
 
-My full curriculum vitae is available as a PDF:
+My professional resume, with some overlap with academic CV, is available as a PDF:
 
-**[Download CV (PDF)](/assets/pdf/balashov-cv.pdf)**
-
-*(TBA)*
+**[Download CV (PDF)](/assets/pdf/Yuri_Balashov_Resume.pdf)**
 
 ## At a glance
 
