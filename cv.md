@@ -12,4 +12,4 @@ My full curriculum vitae is available as a PDF:
 
 - Professor of Philosophy, University of Georgia
 - Affiliated Faculty, Institute for Artificial Intelligence, UGA
-- PI, NSF grant SES-2336713 (interdisciplinary project focunsed on translation technologies)
+- PI, NSF grant [SES-2336713](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2336713) (interdisciplinary project focunsed on translation technologies)
