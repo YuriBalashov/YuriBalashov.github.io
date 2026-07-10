@@ -13,9 +13,10 @@ theme: minima
 header_pages:
   - research.md
   - publications.md
-  - teaching.md
+  - presentations.md
   - cv.md
   - resume.md
+  - teaching.md
 
 # Build settings
 markdown: kramdown
