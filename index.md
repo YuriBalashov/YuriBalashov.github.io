@@ -21,3 +21,4 @@ I am also an [ATA-certified](https://www.atanet.org/) English-to-Russian transla
 - Department of Philosophy, University of Georgia, Athens, GA
 - Email: <balashov.yuri@gmail.com>
 - [GitHub](https://github.com/YuriBalashov)
+- [LinkedIn](https://www.linkedin.com/in/yuribalashov/)
