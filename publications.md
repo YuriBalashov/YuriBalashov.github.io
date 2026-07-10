@@ -4,13 +4,13 @@ title: Recent publications
 permalink: /publications/
 ---
 
-## Books and monographs
-
-- *(TBA)*
-
-## Recent papers
+## Academic
 
 - "Translation Analytics for Freelancers II" (2026). [arXiv:2605.31452](https://arxiv.org/abs/2605.31452).
+- *(TBA)*
+
+## Professional
+
 - *(TBA)*
 
 ## Selected earlier work
