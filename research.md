@@ -15,11 +15,7 @@ My NSF-supported project investigates the cognitive, linguistic, and philosophic
 
 ## Translation Analytics
 
-A series of papers bringing state-of-the-art MT evaluation within reach of individual translators and small LSPs:
-
-- **TA-I, TA-II, TA-III** — benchmarking commercial and local MT/LLM systems across language pairs (EN→DE, EN→RU, EN→ZH), with human evaluation, COMET–human correlation analyses, and confidential local-LLM workflows.
-
-*(TBA.)*
+A series of papers bringing state-of-the-art MT evaluation within reach of individual translators and small LSPs, benchmarking commercial and local MT/LLM systems across language pairs (EN→DE, EN→RU, EN→JA, EN→ZH), with human evaluation, COMET–human correlation analyses, and confidential local-LLM workflows.
 
 ## Earlier work
 
