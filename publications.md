@@ -15,8 +15,8 @@ permalink: /publications/
 ## Professional
 
 - [Automatic Translation Evaluation Tools for Freelancers](https://mailchi.mp/slator/tool-box-january-2024) (2024)
-- [MultiTraiNMT](https://yuribalashov.com/Papers/MultitraiNMT.pdf) (2022)
-- [OPUS-CAT](http://www.yuribalashov.com/Papers/OPUS_CAT_RR_YB.pdf) (2021)
+- [Resource review of MultiTraiNMT](https://yuribalashov.com/Papers/MultitraiNMT.pdf) (2022)
+- [Resource review of OPUS-CAT](http://www.yuribalashov.com/Papers/OPUS_CAT_RR_YB.pdf) (2021)
 
 ## Selected earlier work
 
