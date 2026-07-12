@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Translation Technologies
 
-My NSF-supported project investigates the cognitive, linguistic, and philosophical dimensions of modern translation technologies. Key themes include:
+My [NSF-supported project](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2336713) investigates the cognitive, linguistic, and philosophical dimensions of modern translation technologies. Key themes include:
 
 - **Human–machine interaction in translation.** How professional translators work with CAT tools, neural machine translation, and LLMs, and how these workflows redistribute cognitive labor.
 - **Distributed cognition and extended mind.** Translation as a case study in technology-extended cognition.
